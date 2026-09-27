@@ -49,7 +49,15 @@ A couple of things to keep in mind:
 3. **Built the website.** It has the map, charts, number cards and table described above. It works on phones and supports dark mode.
 4. **Put it online.** The website is published free on GitHub Pages. It updates itself whenever new changes are saved to the `main` branch.
 
-**Coming next:** more data (more destination countries), and a storytelling landing page built around these visuals.
+### What's coming next
+
+This mini deployment is just the start. Here's the plan:
+
+- **More countries and more years.** The data will grow beyond the United States and Canada to other parts of the world, such as **Germany**, **Former Soviet Union**, **Japan**, **Taiwan** and **South Korea**. It will also cover longer periods of time.
+- **More data sources, combined into one picture.** Each organization publishes its numbers in its own format, with different column names, categories and time spans. A big part of the work is cleaning these datasets and matching them up so they can be compared fairly. The original files will always be kept, so every step can be checked.
+- **One world map.** All destinations will come together on a single interactive map, so you can follow the paths people from Viet Nam took across the world over time.
+- **A storytelling landing page.** The current website will grow into a guided story, with new visuals built on the charts and map you see today.
+- **The history behind the numbers.** Secondary research from scholarly (and) historical sources will explain *why* people left when they did and why they went where they went. This covers the political, social and economic forces behind each wave of migration.
 
 ---
 
